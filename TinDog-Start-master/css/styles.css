@@ -1,1 +1,9 @@
-/* prodect empty file */
+#title {
+    background-color: #ff4c68;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
