@@ -1,0 +1,37 @@
+1. devdoc
+https://devdocs.io/
+
+2. emmit sheet
+https://docs.emmet.io/cheat-sheet/
+
+3. unicode table
+https://unicode-table.com/en/
+
+4. crop circle image
+https://crop-circle.imageonline.co/
+
+5. color hunt
+https://colorhunt.co/
+
+6. Pesticide for Chrome
+
+7. favicon
+https://www.favicon.cc/
+
+8. font stack
+https://www.cssfontstack.com/
+
+9. google font
+https://fonts.google.com/
+
+10. flaticon
+https://www.flaticon.com/
+
+11. giphy
+https://giphy.com/
+
+12. css button generator
+https://css3buttongenerator.com/
+
+13. bootsnipp
+https://bootsnipp.com/
