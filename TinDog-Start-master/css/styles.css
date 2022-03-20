@@ -52,6 +52,11 @@ p {
     padding: 0 18px;
 }
 
+/* Title Section */
+.title-section {
+    padding-bottom: 20%;
+}
+
 /* Download Buttons */
 
 .download-button {
@@ -60,15 +65,24 @@ p {
 
 /* Title Image */
 
+.image-section {
+    position: relative;
+}
+
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
+    left: 30%
 }
 
 /* Features Section */
 
 #features {
+    background-color: #fff;
     padding: 7% 15%;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box {
@@ -114,12 +128,12 @@ p {
     margin: 20px 20px 50px;
 }
 
-/* Pricing */
+/* Pricing Section */
 #pricing {
     text-align: center;
-    padding: 7% 15%;
+    padding: 100px;
 }
 
-.card-group {
-    margin-top: 50px;
+.pricing-column {
+    padding: 3% 2%;
 }
