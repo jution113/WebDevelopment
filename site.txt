@@ -35,3 +35,6 @@ https://css3buttongenerator.com/
 
 13. bootsnipp
 https://bootsnipp.com/
+
+14. mobile friendly test
+https://search.google.com/test/mobile-friendly
