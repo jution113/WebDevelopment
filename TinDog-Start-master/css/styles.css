@@ -4,11 +4,6 @@ body {
   text-align: center;
 }
 
-#title {
-  background-color: #ff4c68;
-  color: #fff;
-}
-
 h1,
 h2,
 h3,
@@ -37,8 +32,20 @@ p {
   font-weight: 900;
 }
 
+/* Container */
+
 .container-fluid {
   padding: 7% 15%;
+}
+
+/* Section */
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
 }
 
 /* Navigation Bar*/
@@ -59,14 +66,13 @@ p {
 
 /* Title Section */
 
-.title-section {
-  padding-bottom: 20%;
+#title .container-fluid {
+  padding: 3% 15%;
+  text-align: left;
 }
 
-/* Title Ment Section */
-
-.title-ment-section {
-  text-align: left;
+.title-section {
+  padding-bottom: 20%;
 }
 
 /* Download Buttons */
@@ -91,7 +97,6 @@ p {
 /* Features Section */
 
 #features {
-  background-color: #fff;
   position: relative;
   z-index: 1;
 }
@@ -159,21 +164,11 @@ p {
 
 /* CTA Section */
 
-#cta {
-  background-color: #ff4c68;
-  color: #fff;
-  padding: 7% 15%;
-}
-
 .cta-btn {
   margin: 5% 3% 5% 0%;
 }
 
 /* Footer Section */
-
-#footer {
-  background-color: #fff;
-}
 
 .social-icon {
   margin: 20px 10px;
