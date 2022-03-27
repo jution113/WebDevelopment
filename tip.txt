@@ -3,3 +3,12 @@
 2. Modularity
 3. Efficiency
 4. Length
+
+[우선순위]
+extenal style > inline style
+element > class > id
+
+class 생성
+ex) white, big, heading (x)
+big-heading (o)
+위처럼 각각의 속성을 class로 여러번 사용하기보다는 구체화한 하나의 클래스를 사용할 것
